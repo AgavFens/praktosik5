@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tortik", "tortik\tortik.csproj", "{A6B152CE-2286-44F0-93F0-DE9853DF8232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6B152CE-2286-44F0-93F0-DE9853DF8232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B152CE-2286-44F0-93F0-DE9853DF8232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B152CE-2286-44F0-93F0-DE9853DF8232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B152CE-2286-44F0-93F0-DE9853DF8232}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D2B7F3C-1EA1-4961-93BF-C97FA85D7DFC}
+	EndGlobalSection
+EndGlobal
